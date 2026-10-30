@@ -1,0 +1,44 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="300" rx="28" fill="#21130E"/>
+
+  <g fill="#E5AD55">
+    <path d="M92 226C132 226 156 194 156 144V82H196V145C196 214 158 256 104 256L92 226Z"/>
+    <path d="M235 72C235 53 251 38 270 38C289 38 305 53 305 72C305 85 297 96 286 102L235 72Z"/>
+    <path d="M226 134C226 115 242 100 261 100C280 100 296 115 296 134C296 147 288 158 277 164L226 134Z"/>
+  </g>
+
+  <text
+    x="346"
+    y="166"
+    fill="#FFF5E7"
+    font-family="Arial, sans-serif"
+    font-size="108"
+    font-weight="800"
+    letter-spacing="2"
+  >
+    TEA
+  </text>
+
+  <text
+    x="592"
+    y="166"
+    fill="#E5AD55"
+    font-family="Arial, sans-serif"
+    font-size="108"
+    font-weight="800"
+    letter-spacing="2"
+  >
+    MOOD
+  </text>
+
+  <text
+    x="350"
+    y="216"
+    fill="#EBDCC7"
+    font-family="Arial, sans-serif"
+    font-size="25"
+    letter-spacing="7"
+  >
+    BREWING GOOD MOODS
+  </text>
+</svg>
