@@ -45,14 +45,14 @@ export default function Footer() {
             <span className="footer__label">Follow the mood</span>
 
             <a
-              className="footer__social"
-              href={instagramUrl}
-              target="_blank"
-              rel="noreferrer"
-            >
-              <InstagramIcon size={20} />
-              Instagram
-            </a>
+  className="footer__social inline-flex items-center gap-2"
+  href={instagramUrl}
+  target="_blank"
+  rel="noreferrer"
+>
+  <InstagramIcon size={20} />
+  <span>Instagram</span>
+</a>
           </div>
         </div>
 
